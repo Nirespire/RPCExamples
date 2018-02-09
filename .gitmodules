@@ -1,0 +1,4 @@
+[submodule "grpc-java"]
+	path = grpc-java
+	url = https://github.com/grpc/grpc-java.git
+	branch = v1.9.x
