@@ -17,6 +17,7 @@
 
 ### Twirp GO
 
-- Move folders in `twirp-go` into your `GOPATH` directory
-- 
+- Ensure the folders in `twirp-go` are in your `GOPATH`
+- `./cmd/haberdasherserver/haberdasherserver` to start the RPC server
+- `./cmd/haberdasherclient/haberdasherclient` to start the RPC client
 
